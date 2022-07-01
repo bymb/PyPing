@@ -5,7 +5,7 @@
 
 # Défauts
 
-- Le programme doit obligatoirement être exécuté en tant qu'admin.
+- Le programme doit obligatoirement être exécuté en tant qu'administrateur
 
 # Exemple
 
