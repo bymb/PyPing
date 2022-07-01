@@ -5,4 +5,4 @@
 
 # Exemple
 
-- <img src="[url](https://prnt.sc/w6N48yfTR1yR)" width="50%" height="50%">
+![Screenshot](test.png)
