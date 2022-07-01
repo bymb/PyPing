@@ -1,7 +1,11 @@
-# Problèmes
+# Qualités
+
+- Très rapide
+- Belle interface
+
+# Défauts
 
 - Le programme doit obligatoirement être exécuté en tant qu'admin.
-- L'interface n'est pas très belle.
 
 # Exemple
 
